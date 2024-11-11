@@ -1,8 +1,8 @@
-#Data Analysis
+# Data Analysis
 
-###Education
+### Education
 
 Master of Business Analysis
 
-###Projects
+### Projects
 
